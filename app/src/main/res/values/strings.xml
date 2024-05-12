@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Bot messages</string>
+    <string name="this_is_a_sample_message_that_will_appear">This is a sample message that will appear</string>
+    <string name="type_a_message">Type a message...</string>
+    <string name="send">Send</string>
+</resources>
